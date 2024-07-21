@@ -1,0 +1,17 @@
+com\userServices\service\userService.class
+com\userServices\repo\loginRepo.class
+com\userServices\model\InlineResponse200.class
+com\userServices\model\LoginBody.class
+com\userServices\controller\loginController.class
+com\userServices\controller\UserController.class
+com\userServices\service\loginService.class
+com\userServices\repo\loginRepo$UserRowMapper.class
+com\userServices\api\UsersApi.class
+com\userServices\api\RegisterApi.class
+com\userServices\controller\RegisterController.class
+com\userServices\repo\userRepo.class
+com\userServices\repo\RegisterRepo.class
+com\userServices\api\LoginApi.class
+com\userServices\model\RegisterAccRegisterResponse.class
+com\userServices\service\registerService.class
+com\userServices\UserServicesApplication.class
